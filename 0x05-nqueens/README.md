@@ -1,1 +1,1 @@
-0x05-nqueens
+# Nquuens for the win
