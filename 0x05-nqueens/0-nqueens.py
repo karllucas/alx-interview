@@ -7,7 +7,7 @@ import sys
 
 def backtracking(board, row=0, column=0):
     """
-    method that uses the backtracking algorithm to obtain
+    A method that uses the backtracking algorithm to obtain
     all possible solutions
     """
     if row == len(board):
