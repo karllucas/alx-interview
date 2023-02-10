@@ -1,5 +1,7 @@
 #!/usr/bin/node
-# A cool starwars API
+
+// A cool starwars API
+// It prints all characters of the Star Wars movie
 
 const request = require('request');
 
