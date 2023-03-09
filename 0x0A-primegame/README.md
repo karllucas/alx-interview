@@ -1,1 +1,2 @@
-Project: 0x0A. Prime Game
+# Prime Game
+### Repo will be updated soon...
